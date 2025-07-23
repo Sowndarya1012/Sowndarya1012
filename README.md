@@ -2,6 +2,14 @@
 
 🎓 B.Tech IT Student | 💻 Java Developer | 🛠️ Full Stack Enthusiast
 
-- 🌱 Currently learning MERN Stack and Data Analytics
-- 🔭 Working on a Textile Management System
-- 🏆 HackerRank Java Certified
+
+## 🚀 About Me
+
+I am a passionate and goal-oriented IT student with a strong foundation in Java and web technologies. I enjoy building full-stack projects that solve real-world problems and improve user experiences.
+
+I actively work on software engineering, data-driven projects, and modern web development frameworks. I believe in continuous learning and collaboration.
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sowndarya-v)
+- 💻 [GitHub](https://github.com/Sowndarya1012)
